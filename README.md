@@ -40,7 +40,7 @@ Below you can see an original image and an image with corrected the perspective
 ![](/www/images/8.jpg)
 
 Below you can see an original image and an image with corrected the perspective
-![bla bla](/www/images/9.jpg)
+![](/www/images/9.jpg)
 
 You can also find a quick video demonstration of a license plate recovering method
 [YouTube](https://youtu.be/xSrE0hdhb4o).
