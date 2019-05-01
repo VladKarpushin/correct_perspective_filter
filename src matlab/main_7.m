@@ -1,21 +1,21 @@
 % 2019-04-11
 % 
 % https://www.youtube.com/watch?v=FtIXgUfa23o&list=PLCE5HwZ7W7i4ataKfwOBz3bTwXZ89Nv9o&index=19
-clc, clear all, close all;
+clc, clearvars, close all;
 
 strFolder = 'D:\home\programming\vc\new\6_My home projects\21_license_plate_extraction\input\';
 strFileName = strcat(strFolder,'P1030639_new.JPG');
 
-imgA = imread(strFileName);
-[h w c] = size(imgA);
-if c == 3
-    imgA = rgb2gray(imgA);
-end
-
 %************
 % inputting *
 %************
-figure,imshow(imgA);
+img = imread(strFileName);
+[h w c] = size(img);
+if c == 3
+    img = rgb2gray(img);
+end
+
+figure,imshow(img);
 matchedPtsOriginal = [400,400; 250,400; 250,350; 400,350];  % (x,y), x - var
 matchedPtsDistorted = matchedPtsOriginal;
 %matchedPtsDistorted = [286,186; 146,342; 169,231; 314,86];  % P1030629.jpg
@@ -31,5 +31,10 @@ h = impoly(gca, matchedPtsDistorted);
 matchedPtsDistorted = wait(h);
 
 tform = estimateGeometricTransform(matchedPtsDistorted,matchedPtsOriginal,'affine');
-Ir = imwarp(imgA,tform);
-figure, imshow(Ir);
+img_out = imwarp(img,tform);
+
+%************
+% outputting *
+%************
+
+figure, imshow(img_out);
