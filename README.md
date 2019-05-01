@@ -16,31 +16,31 @@ Result
 ------
 
 Below you can an original image and an image with corrected the perspective
-![](images/1.jpg)
+![](/www/images/1.jpg)
 
 Below you can an original image and an image with corrected the perspective
-![](images/2.jpg)
+![](/www/images/2.jpg)
 
 Below you can an original image and an image with corrected the perspective
-![](images/3.jpg)
+![](/www/images/3.jpg)
 
 Below you can an original image and an image with corrected the perspective
-![](images/4.jpg)
+![](/www/images/4.jpg)
 
 Below you can an original image and an image with corrected the perspective
-![](images/5.jpg)
+![](/www/images/5.jpg)
 
 Below you can an original image and an image with corrected the perspective
-![](images/6.jpg)
+![](/www/images/6.jpg)
 
 Below you can an original image and an image with corrected the perspective
-![](images/7.jpg)
+![](/www/images/7.jpg)
 
 Below you can an original image and an image with corrected the perspective
-![](images/8.jpg)
+![](/www/images/8.jpg)
 
 Below you can an original image and an image with corrected the perspective
-![](images/9.jpg)
+![](/www/images/9.jpg)
 
 You can also find a quick video demonstration of a license plate recovering method
 [YouTube](https://youtu.be/xSrE0hdhb4o).
