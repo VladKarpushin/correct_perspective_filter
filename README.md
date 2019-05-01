@@ -15,31 +15,31 @@ Theory
 Result
 ------
 
-Below you can an original image and an image with corrected the perspective
+Below you can see an original image and an image with corrected the perspective
 ![](/www/images/1.jpg)
 
-Below you can an original image and an image with corrected the perspective
+Below you can see an original image and an image with corrected the perspective
 ![](/www/images/2.jpg)
 
-Below you can an original image and an image with corrected the perspective
+Below you can see an original image and an image with corrected the perspective
 ![](/www/images/3.jpg)
 
-Below you can an original image and an image with corrected the perspective
+Below you can see an original image and an image with corrected the perspective
 ![](/www/images/4.jpg)
 
-Below you can an original image and an image with corrected the perspective
+Below you can see an original image and an image with corrected the perspective
 ![](/www/images/5.jpg)
 
-Below you can an original image and an image with corrected the perspective
+Below you can see an original image and an image with corrected the perspective
 ![](/www/images/6.jpg)
 
-Below you can an original image and an image with corrected the perspective
+Below you can see an original image and an image with corrected the perspective
 ![](/www/images/7.jpg)
 
-Below you can an original image and an image with corrected the perspective
+Below you can see an original image and an image with corrected the perspective
 ![](/www/images/8.jpg)
 
-Below you can an original image and an image with corrected the perspective
+Below you can see an original image and an image with corrected the perspective
 ![](/www/images/9.jpg)
 
 You can also find a quick video demonstration of a license plate recovering method
