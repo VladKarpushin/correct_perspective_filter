@@ -44,4 +44,3 @@ Below you can an original image and an image with corrected the perspective
 
 You can also find a quick video demonstration of a license plate recovering method
 [YouTube](https://youtu.be/xSrE0hdhb4o).
-@youtube{xSrE0hdhb4o}
