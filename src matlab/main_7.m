@@ -9,9 +9,10 @@ strFolder = 'D:\home\programming\vc\new\6_My home projects\21_license_plate_extr
 strFileName = strcat(strFolder,'P1030639_new.JPG');
 
 %************
-% inputting *
+% inputting *d
 %************
-matchedPtsTarget = [400,400; 250,400; 250,350; 400,350];  % (x,y), x - var
+%matchedPtsTarget = [400,400; 250,400; 250,350; 400,350];  % (x,y), x - var
+matchedPtsTarget = [300,200; 50,200; 50,100; 300,100];  % (x,y), x - var
 matchedPtsDistorted = matchedPtsTarget;
 
 img = imread(strFileName);
