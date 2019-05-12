@@ -5,10 +5,11 @@
 % 
 clc, clearvars, close all;
 
-strFolder = 'D:\home\programming\vc\new\6_My home projects\21_license_plate_extraction\input\';
+strFolder = 'D:\home\programming\vc\new\6_My home projects\21_license_plate_extraction\input\new2\';
 %strFileName = strcat(strFolder,'P1030639_new.JPG');
 %strFileName = strcat(strFolder,'P1030636_new.JPG');
-strFileName = strcat(strFolder,'P1030627_new.JPG');
+%strFileName = strcat(strFolder,'P1030673_new.JPG');
+strFileName = strcat(strFolder,'P1030680_new.JPG');
 
 %************
 % inputting *d
